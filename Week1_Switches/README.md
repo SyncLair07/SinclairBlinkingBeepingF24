@@ -1,0 +1,4 @@
+For this week's assignment, I tried to design a homemade swtich using a pair of chopsticks as its main component.
+The idea is that when someone use the chopsticks to pick something, the two endpoints of each chopstick will touch and form a closed circuit, hence become a switch-on action.
+What makes this more interesting is the intensity of the current flowing through the circuit would be affected by the item picked using the chopsticks.
+For instance, a higher current could be flowing in the circuit if one picks something with high conductivity/ low resistance such as a piece of sashima rather than something with low conductivity/ high resistance such as roasted nuts.
